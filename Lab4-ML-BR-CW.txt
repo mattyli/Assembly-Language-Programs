@@ -1,0 +1,9 @@
+#   Pseudocode
+#   According to jacob's
+
+# main
+# PrintString("274W22 L4 by\n)
+# PRintString(Our names)
+
+# showrange(start,end)
+# showmemwords(start,end)
