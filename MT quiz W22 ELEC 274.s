@@ -1,8 +1,8 @@
 # Pseudocode goes here
-ArrayCreation(final, in1, in2, len, m, b):
-    for i=0 to len-1:
-        if in[2] > m:
-        final[i] = in1[i]
+#ArrayCreation(final, in1, in2, len, m, b):
+#    for i=0 to len-1:
+#        if in[2] > m:
+#        final[i] = in1[i]
 
 # ----------------------------------------------------------------------
 # Program starts here
